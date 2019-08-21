@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/umairbutt96/Space%20Game%20-web/_apis/build/status/OmairAbid.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/umairbutt96/Space%20Game%20-web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
